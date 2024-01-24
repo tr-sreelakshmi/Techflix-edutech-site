@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Techflix-edutech-site%20%20/static/css/main.a405ae91.css",
-    "main.js": "/Techflix-edutech-site%20%20/static/js/main.9f0d734f.js",
+    "main.js": "/Techflix-edutech-site%20%20/static/js/main.7e9d6571.js",
     "static/media/tc.png": "/Techflix-edutech-site%20%20/static/media/tc.66e132f330fd312fe176.png",
     "static/media/meta.jpeg": "/Techflix-edutech-site%20%20/static/media/meta.7e3f88a1b4640d37c922.jpeg",
     "static/media/miya.jpg": "/Techflix-edutech-site%20%20/static/media/miya.cfeb40c12ffb25457bb8.jpg",
@@ -12,10 +12,10 @@
     "static/media/ai.png": "/Techflix-edutech-site%20%20/static/media/ai.0b1f4f6f49e69c33509f.png",
     "index.html": "/Techflix-edutech-site%20%20/index.html",
     "main.a405ae91.css.map": "/Techflix-edutech-site%20%20/static/css/main.a405ae91.css.map",
-    "main.9f0d734f.js.map": "/Techflix-edutech-site%20%20/static/js/main.9f0d734f.js.map"
+    "main.7e9d6571.js.map": "/Techflix-edutech-site%20%20/static/js/main.7e9d6571.js.map"
   },
   "entrypoints": [
     "static/css/main.a405ae91.css",
-    "static/js/main.9f0d734f.js"
+    "static/js/main.7e9d6571.js"
   ]
 }
